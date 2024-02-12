@@ -1,4 +1,4 @@
-print("B")
+print("A")
 
 아츠쿠테 히카라비소
 print("A")
