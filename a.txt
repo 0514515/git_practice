@@ -6,3 +6,5 @@ print("A")
 test1에서 추가된 소스코드입니다.
 
 메인작업이다.
+
+wefoiuhwejfiouhwe
